@@ -6,7 +6,7 @@ int main() {
     int ret;
     mbedtls_aes_context aes;
     unsigned char key[32];
-    unsigned char input[16];
+    unsigned char input[16] = {""};
     unsigned char output[16];
     unsigned char iv[16] = {0};
 
