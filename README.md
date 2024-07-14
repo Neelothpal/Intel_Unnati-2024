@@ -1,5 +1,5 @@
 
-# HASH GUARD
+# HASH GUARD 🔐
 
 ## Cryptography Operations using mbedtls
 
@@ -128,11 +128,11 @@ Encrypted data (in hex): [Encrypted data in hex]
 - `dockerfile`: The docker file that is used to create the docker image.
 
 ## Team - BYTEFORGE
- - Neelothpal Samala Team Lead
-- D.Sathvika Team member  
-- M.Sri Priya Bhargavi Team member  
-- MD.Abdul Azeez  Team member
-- M.Anudeep	 Team member    
+ - S.Neelothpal Team Lead
+ - D.Sathvika Team member  
+ - M.Sri Priya Bhargavi Team member  
+ - MD.Abdul Azeez  Team member
+ - M.Anudeep	 Team member    
 
 ## Acknowledgements
 
@@ -147,4 +147,4 @@ Encrypted data (in hex): [Encrypted data in hex]
 - [AES (Advanced Encryption Standard)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 ```
 
-Feel free to modify the example commands, file names, and paths as per your specific requirements or environment.
+Feel free to modify the example commands, file names, and paths as per your specific requirements or environment. 😊
