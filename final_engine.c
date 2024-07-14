@@ -713,6 +713,32 @@ void aes_encrypt_decrypt() {
 }
 
 void main() {
+
+    const char* text = " HASH GUARD ";
+
+    // Print the top border
+    for (int i = 0; i < 14; i++) {
+        printf("#");
+    }
+    printf("\n");
+
+    // Print the text with border
+    printf("#%s#\n", text);
+
+    // Print the bottom border
+    for (int i = 0; i < 14; i++) {
+        printf("#");
+    }
+    printf("\n");
+    
+    // Print the introductory information
+    printf("HashGuard demonstrates various cryptographic operations using the mbedTLS library.\n");
+    printf("It provides functionalities for hashing, encryption, decryption, and digital signatures.\n");
+    printf("The program is divided into several distinct sections, each showcasing different cryptographic techniques.\n");
+    printf("This is built as Cryptography is essential for securing communication in the digital world.\n");
+    printf("Understanding these concepts is crucial for students, developers, and professionals in the field of computer security.\n\n");
+
+
     while (1) {
         int choice;
         printf("\nChoose an operation:\n");
