@@ -1,7 +1,7 @@
-Here is a README file for your C code. This file covers all the main functionalities and instructions for the code.
 
-```markdown
-# Cryptography Operations using mbedtls
+# HASH GUARD
+
+## Cryptography Operations using mbedtls
 
 This C program demonstrates cryptographic operations using the `mbedtls` library, including SHA-256 hashing, RSA encryption/decryption, 3DES encryption/decryption, and AES encryption/decryption. 
 
