@@ -125,6 +125,7 @@ Encrypted data (in hex): [Encrypted data in hex]
 - `public_key.pem`: Contains the RSA public key.
 - `hash_value.bin`: Contains the hash value of a message for digital signature.
 - `crypto_operations`: The compiled binary executable.
+- `dockerfile`: The docker file that is used to create the docker image.
 
 ## Team - BYTEFORGE
  - Neelothpal Samala Team Lead
