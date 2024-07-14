@@ -126,7 +126,7 @@ Encrypted data (in hex): [Encrypted data in hex]
 - `hash_value.bin`: Contains the hash value of a message for digital signature.
 - `crypto_operations`: The compiled binary executable.
 
-## Team
+## Team - BYTEFORGE
  - Neelothpal Samala Team Lead
 - D.Sathvika Team member  
 - M.Sri Priya Bhargavi Team member  
