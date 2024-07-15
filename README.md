@@ -23,7 +23,7 @@ This C program demonstrates cryptographic operations using the `mbedtls` library
 
 ## Prerequisites
 
-- **Docker**: Ensure that you have docker installed on your system.
+- **Docker**: Ensure that you have docker installed on your system and is running while creating and running the docker image.
 
 ## Compilation
 
